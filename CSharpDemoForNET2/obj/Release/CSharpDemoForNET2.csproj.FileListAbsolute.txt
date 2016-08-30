@@ -1,0 +1,5 @@
+D:\workspace\CSharpDemoForNET2\CSharpDemoForNET2\bin\Release\CSharpDemoForNET2.exe.config
+D:\workspace\CSharpDemoForNET2\CSharpDemoForNET2\bin\Release\CSharpDemoForNET2.exe
+D:\workspace\CSharpDemoForNET2\CSharpDemoForNET2\bin\Release\CSharpDemoForNET2.pdb
+D:\workspace\CSharpDemoForNET2\CSharpDemoForNET2\obj\Release\CSharpDemoForNET2.exe
+D:\workspace\CSharpDemoForNET2\CSharpDemoForNET2\obj\Release\CSharpDemoForNET2.pdb

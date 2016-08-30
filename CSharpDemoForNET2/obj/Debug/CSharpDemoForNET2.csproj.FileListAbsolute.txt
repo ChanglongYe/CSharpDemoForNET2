@@ -1,0 +1,6 @@
+D:\workspace\CSharpDemoForNET2\CSharpDemoForNET2\obj\Debug\CSharpDemoForNET2.csprojResolveAssemblyReference.cache
+D:\workspace\CSharpDemoForNET2\CSharpDemoForNET2\bin\Debug\CSharpDemoForNET2.exe.config
+D:\workspace\CSharpDemoForNET2\CSharpDemoForNET2\bin\Debug\CSharpDemoForNET2.exe
+D:\workspace\CSharpDemoForNET2\CSharpDemoForNET2\bin\Debug\CSharpDemoForNET2.pdb
+D:\workspace\CSharpDemoForNET2\CSharpDemoForNET2\obj\Debug\CSharpDemoForNET2.exe
+D:\workspace\CSharpDemoForNET2\CSharpDemoForNET2\obj\Debug\CSharpDemoForNET2.pdb
